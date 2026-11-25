@@ -1,0 +1,9 @@
+
+# Moolock cryptocurrency support
+# Official accepted payment networks:
+# USDT: Ethereum Mainnet (ERC20)
+# TRX: TRON Mainnet (native TRX)
+
+custom:
+  - "https://github.com/moolock-Ax/Moolock-tech/blob/main/Donate.md"
+  
